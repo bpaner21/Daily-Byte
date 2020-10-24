@@ -1,0 +1,56 @@
+Week 1
+1. Reverse String			X
+2. Valid Palindrome			X
+3. Vacuum Cleaner Route		X
+4. Correct Capitalization		X
+5. Add Binary			X
+6. Longest Common Prefix		X
+7. Valid Palindrome with Removal	X
+
+Week 2
+8. Two Sum			X
+9. Jewels and Stones			X
+10. Valid Anagram			X
+11. First Unique Character		X
+12. Spot the Difference		X
+13. Intersection of Numbers		X
+14. Uncommon Words		X
+
+Week 3
+15. Merge Linked Lists		X
+16. Remove Nth to Last Node		X
+17. Remove Value			X
+18. Find Middle Element		X
+19. Contains Cycle			X
+20. Return Start of Cycle		X
+21. Reverse List			X
+
+Week 4
+22. Validate Characters		X
+23. Compare Keystrokes		X
+24. Remove Adjacent Duplicates		X
+25. Greater Elements			
+26. Call Counter			
+27. Moving Average			
+28. Queue Stack			
+
+Week 5
+29. Find Value			
+30. Convert BST to Sorted Linked List	
+31. Lowest Common Ancestor		
+32. Sorted Array to Binary Search Tree	
+33. Identical Trees			
+34. Minimum Difference		
+35. Find the Mode			
+
+Week 6
+36. Gather Levels			
+37. Max Value in Each Level		
+38. Visible Values			
+39. Bottoms Up			
+40. Zigzag Travel			
+41. Gather Columns			
+42. Calculate Depth			
+
+Week 7
+43. Root to Leaf Paths		
